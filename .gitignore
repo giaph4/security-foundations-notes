@@ -1,0 +1,19 @@
+# bí mật & dữ liệu nhạy cảm
+.env
+*.pem
+*.key
+*.pfx
+*.kdbx
+secrets/
+creds*.txt
+# mã độc mẫu / file lớn
+malware-samples/
+*.pcap
+*.pcapng
+*.ova
+*.vmdk
+*.iso
+# hệ thống
+.DS_Store
+Thumbs.db
+.obsidian/workspace*.json
